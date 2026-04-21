@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajaryan18/rajaryan18/main/github_profile_banner.png" alt="Raj Aryan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/thatrajaryan/thatrajaryan/main/github_profile_banner.png" alt="Raj Aryan Banner" width="100%" />
 </div>
 
 # 🚀 Hello there, I'm Raj Aryan!
@@ -47,12 +47,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaryan18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Raj's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thatrajaryan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Raj's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatrajaryan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaryan18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatrajaryan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/thatrajaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:rajaryan1811@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:thatrajaryan11@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://tinyurl.com/thatrajaran" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/link--v1.png" alt="Projects List" height="25" width="25" /> <b>Projects List</b></a>
   &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1t_C6al0fEB6akRpy8VvQRCfHxMSRVpR1/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" alt="Resume" height="25" width="25" /> <b>Resume</b></a>
